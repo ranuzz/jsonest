@@ -1,0 +1,11 @@
+{
+  "name": "jsonest",
+  "version": "1.0.0",
+  "description": "utility functions to handle deeply nested JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "author": "ranuzz@outlook.com",
+  "license": "MIT"
+}
